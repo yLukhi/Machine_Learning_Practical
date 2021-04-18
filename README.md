@@ -1,1 +1,1 @@
-# Machine_Learning_Practical
+# Machine_Learning_Collage_Practicals
